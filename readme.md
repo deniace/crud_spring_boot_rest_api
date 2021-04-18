@@ -25,4 +25,4 @@ Method = DELETE
 url = localhost:8080/users/1
 ```
 
-![Screenshoot]{"https://github.com/deniace/crud_spring_boot_rest_api/blob/master/screenshot/get.png" }
+![Screenshoot]{https://github.com/deniace/crud_spring_boot_rest_api/blob/master/screenshot/get.png "screenshot" }
