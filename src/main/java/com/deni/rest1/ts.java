@@ -13,4 +13,7 @@ public class ts {
 		return "a";
 	}
 
+	public String b() {
+		return "asdf";
+	}
 }
